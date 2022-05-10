@@ -1,5 +1,5 @@
 = AsciiDoc textstyle =
-
+:navtitle: AsciiWorld
 '''
 
 A bold *word*, and a bold *phrase of text*.
