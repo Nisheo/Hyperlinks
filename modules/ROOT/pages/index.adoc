@@ -1,7 +1,7 @@
 = Birthday Item
 :navtitle: Hello
 
-'''
+
 == Example  Module
 
 This is an example of list.
