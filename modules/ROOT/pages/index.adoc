@@ -1,0 +1,24 @@
+= DailyCare Team
+:navtitle: Hello
+
+== Team Members
+
+This is a list of Android Team members.
+
+* Dilip Kumar
+* Rakesh Ram Palakodati
+* Anil Kumar Jha
+* Stuti Sharma
+* Venkataiah  Ballem
+
+=== Color Combination
+`*_Basic Colors_*`
+----
+* Bluish
+* Black
+* White/Red
+----
+
+
+* Trying to access an external  website, see this https://github.com/Nisheo/AntoraDemo[Github Repo^].
+
