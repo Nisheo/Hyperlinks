@@ -1,0 +1,5 @@
+name: BirthDay
+title:  Menu List
+version: master
+nav:
+- modules/ROOT/nav.adoc
