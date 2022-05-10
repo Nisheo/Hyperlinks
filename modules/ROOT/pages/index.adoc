@@ -1,15 +1,14 @@
-= DailyCare Team
+= Birthday Item
 :navtitle: Hello
+'''
+== Example  Module
 
-== Team Members
+This is an example of list.
 
-This is a list of Android Team members.
-
-* Dilip Kumar
-* Rakesh Ram Palakodati
-* Anil Kumar Jha
-* Stuti Sharma
-* Venkataiah  Ballem
+* Balloon
+* Sparkle
+* Cake
+* Cupcake
 
 === Color Combination
 `*_Basic Colors_*`
