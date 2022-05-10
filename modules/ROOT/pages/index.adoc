@@ -20,6 +20,6 @@ This is an example of list.
 ----
 
 
-* Trying to access an external  website, see this https://github.com/Nisheo/AntoraDemo[Github Repo^].
+*Trying to access an external  website*, see this https://github.com/Nisheo/AntoraDemo[Github Repo^].
 
 _Cross reference example here_, xref:crossRef.adoc[]
