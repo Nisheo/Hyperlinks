@@ -1,0 +1,32 @@
+= AsciiDoc textstyle =
+
+'''
+
+A bold *word*, and a bold *phrase of text*.
+
+Bold c**hara**cter**s** within a word.
+
+This stuff is _italic_.
+
+For code content `monospace`.
+
+`*_monospaced bold italic_*`
+
+Lets #highlight# this.
+
+The "`double quotes`", '`single quotes`'. <
+
+Here is ~subscript~ and ^superscript^.
+
+* * *
+
+'''
+The text is [.underline]#underlined#.
+
+The text is [.overline]#overlined#.
+
+The text is [.line-through]#striked#.
+
+(C) (R) (TM) -> <=  &dagger; &euro; &loz;
+
+'''
