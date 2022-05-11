@@ -1,15 +1,15 @@
-= Birthday Item
+= DailyCare Team
 :navtitle: Hello
 
+== Team Members
 
-== Example  Module
+This is a list of Android Team members.
 
-This is an example of list.
-
-* Balloon
-* Sparkle
-* Cake
-* Cupcake
+* Dilip Kumar
+* Rakesh Ram Palakodati
+* Anil Kumar Jha
+* Stuti Sharma
+* Venkataiah  Ballem
 
 === Color Combination
 `*_Basic Colors_*`
@@ -20,6 +20,6 @@ This is an example of list.
 ----
 
 
-*Trying to access an external  website*, see this https://github.com/Nisheo/AntoraDemo[Github Repo^].
+* Trying to access an external  website, see this https://github.com/Nisheo/AntoraDemo[Github Repo^].
 
 _Cross reference example here_, xref:crossRef.adoc[]
