@@ -14,9 +14,9 @@ This is a list of Android Team members.
 === Color Combination
 `*_Basic Colors_*`
 ----
-* Bluish
-* Black
-* White/Red
+* Red
+* Blue
+* Green
 ----
 
 
